@@ -1,6 +1,6 @@
-# Karbo for WooCommerce
+# Niobio Cash for WooCommerce
 
-Karbo for WooCommerce is a Wordpress plugin that allows merchants to accept KRB at WooCommerce-powered online stores.
+Niobio Cash for WooCommerce is a Wordpress plugin that allows merchants to accept NBR at WooCommerce-powered online stores.
 
 Contributors: KittyCatTech, gesman
 
